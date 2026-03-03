@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'documentacion 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'documentacion 1.0-SNAPSHOT API'
+helena
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/src/main/java = 1771932674784
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/allpackages-index.html = 1771934180255
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/copy.svg = 1771934180266
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/tag-search-index.js = 1771934180256
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/index-all.html = 1771934180260
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/allclasses-index.html = 1771934180255
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/link.svg = 1771934180266
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/type-search-index.js = 1771934180256
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/search.js = 1771934180267
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/overview-tree.html = 1771934180250
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/package-search-index.js = 1771934180256
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/search.html = 1771934180261
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/member-search-index.js = 1771934180256
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/stylesheet.css = 1771934180265
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/script.js = 1771934180266
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/search-page.js = 1771934180276
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/element-list = 1771934180238
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/javadoc.sh = 1771934163015
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/index.html = 1771934180261
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/module-search-index.js = 1771934180256
+/home/vagrant/Desktop/repos/CD2026/documentacionJava/documentacion/target/reports/apidocs/help-doc.html = 1771934180264
