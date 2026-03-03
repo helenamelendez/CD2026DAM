@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'javadoc2 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'javadoc2 1.0-SNAPSHOT API'
+helena
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/src/main/java = 1771934679937
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/allpackages-index.html = 1772537916125
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/copy.svg = 1772537916136
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/tag-search-index.js = 1772537916125
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/index-all.html = 1772537916130
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/allclasses-index.html = 1772537916124
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/link.svg = 1772537916136
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/type-search-index.js = 1772537916125
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/search.js = 1772537916137
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/overview-tree.html = 1772537916118
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/package-search-index.js = 1772537916125
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/search.html = 1772537916131
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/member-search-index.js = 1772537916125
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/stylesheet.css = 1772537916135
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/script.js = 1772537916136
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/search-page.js = 1772537916138
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/element-list = 1772537916106
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/javadoc.sh = 1772537885523
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/index.html = 1772537916132
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/module-search-index.js = 1772537916125
+/home/vagrant/Desktop/repos/CD2026/UD04 - Tarea 5 - Javadoc II/target/reports/apidocs/help-doc.html = 1772537916135

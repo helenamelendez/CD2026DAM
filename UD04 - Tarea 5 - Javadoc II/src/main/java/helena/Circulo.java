@@ -36,7 +36,7 @@ public class Circulo {
     }
 /**
  * Setter del valor y
- * @param valorX valor que se usara para establece el atributo "y"
+ * @param valorY valor que se usara para establece el atributo "y"
  */
     public void establecerY(int valorY) {
         y=valorY;
